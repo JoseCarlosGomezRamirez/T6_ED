@@ -24,5 +24,5 @@ public class Tarea6EDClase {
         System.out.println("El total a pagar es:"+Total);
         System.out.println("Enviado");
     }
-    
+ 
 }
